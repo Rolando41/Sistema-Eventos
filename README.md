@@ -3,9 +3,9 @@ Sistema de Asistencia de eventos creada para el Colegio Federado de ingenieros y
 
 
 # Proyecto Universitario, Universidad de Costa Rica.
-# Desarrollada por Lorenzo Carazo Zuñiga.
+# Desarrollada por Rolando Rojas Elizondo.
 
-Aplicación encargada de manejar a la asistencia de las pesonas a diferentes eventos y actividades, mediante la implementación de un lector QR.
+Aplicación encargada de manejar a la asistencia de las pesonas a diferentes eventos y actividades, mediante un lector QR.
 indica si la persona tiene acceso o no a una actividad de un evento en especifico, si este puede ingresar lo registra.
 
 
@@ -16,7 +16,7 @@ indica si la persona tiene acceso o no a una actividad de un evento en especific
 ![Farmers Market Finder Demo](Video/vi.gif)
 
 
-# Fotos del aplicativo.
+# Fotos de la Aplicación.
 
 ![Farmers Market Finder Demo](Video/s1.jpg)
 ![Farmers Market Finder Demo](Video/s2.jpg)
